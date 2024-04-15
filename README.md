@@ -1,3 +1,7 @@
-# Undergraduate-Thesis
-Undergraduate Thesis for 2023-2023. 
-Thesis Topic: Knowledge-based Neural Question Generation from Images/Text.
+# K-VQG: A Comparative Study on Knowledge-based Visual Question Generation
+#### 2023-2024 Honours Thesis, Ontario Tech University Computer Science
+#### Ammar Hatiya, B.Sc.
+
+
+ 
+
