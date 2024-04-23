@@ -24,10 +24,6 @@ Extracting information from images is an increasingly prominent task due to its 
 - **Field of Study:** Computer Science 
 - **Degree:** Bachelors of Science, Computer Science
 
-## How to Use
-
-Explore the `Results` directory for evaluation metrics and analysis findings.
-
 ## Contact
 
 For any inquiries or collaborations, feel free to contact the author:
