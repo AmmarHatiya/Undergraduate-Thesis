@@ -13,7 +13,7 @@ Extracting information from images is an increasingly prominent task due to its 
 ## Contents
 
 - **Code:** Contains the code implementations used for data collection, question generation, training, and evaluation.
-- **Documentation:** Houses the [Thesis Report](Documentation/Thesis%20Report%20(Ammar%20Hatiya).pdf)
+- **Documentation:** [Thesis Report](Documentation/Thesis%20Report%20(Ammar%20Hatiya).pdf)
 , alongside supplementary materials such as resource guides, and related works.
 - **Results:** Evaluation metrics, analysis results, and visualizations.
 - **Data:** Includes Ground truth data and CSV files used in the study.
