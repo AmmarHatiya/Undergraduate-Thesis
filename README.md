@@ -15,7 +15,7 @@ Extracting information from images is an increasingly prominent task due to its 
 - **Code:** Contains the code implementations used for data collection, question generation, training, and evaluation.
 - **Documentation:** Houses the final thesis report, alongside supplementary materials such as resource guides, and related works.
 - **Results:** Evaluation metrics, analysis results, and visualizations.
-- **Data:** Includes datasets used in the study, with generated questions and answers.
+- **Data:** Includes Ground truth data and CSV files used in the study.
 
 ## Author
 
