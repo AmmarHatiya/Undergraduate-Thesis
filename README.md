@@ -13,10 +13,9 @@ Extracting information from images is an increasingly prominent task due to its 
 ## Contents
 
 - **Code:** Contains the code implementations used for data collection, model training, and evaluation.
-- **Data:** Includes datasets used in the study, annotations, and preprocessing scripts.
-- **Documentation:** Supplementary documentation, including the thesis proposal, progress reports, and final thesis document.
+- **Documentation:** Supplementary documentation, including the resource guides, and final thesis report.
 - **Results:** Evaluation metrics, analysis results, and visualizations.
-- **References:** Bibliographic references and related research papers.
+- **Data:** Includes datasets used in the study, with generated questions and answers.
 
 ## Author
 
@@ -26,12 +25,7 @@ Extracting information from images is an increasingly prominent task due to its 
 
 ## How to Use
 
-To replicate the experiments conducted in the thesis or explore the research findings:
-
-1. Clone the repository to your local machine.
-2. Follow the instructions in the `Code` directory to set up the required environment and run the code.
-3. Refer to the `Documentation` directory for additional information about the research methodology, datasets, and experimental setup.
-4. Explore the `Results` directory for evaluation metrics and analysis findings.
+Explore the `Results` directory for evaluation metrics and analysis findings.
 
 ## Contact
 
