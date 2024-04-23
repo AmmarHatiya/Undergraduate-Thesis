@@ -1,4 +1,4 @@
-# Undergraduate Honours Thesis (2023-2024): Comparative Study on Knowledge-based Visual Question Generation
+# Undergraduate Honours Thesis (2023-2024): A Study on Knowledge-based Visual Question Generation
 
 Welcome to the GitHub repository for the undergraduate honours thesis titled "A Study on Knowledge-based Visual Question Generation".
 
