@@ -1,4 +1,4 @@
-# A Study on Knowledge-based Visual Question Generation
+# K-VQG: A Study on Knowledge-based Visual Question Generation
 
 Welcome to the GitHub repository for my undergraduate honours thesis titled "K-VQG: A Study on Knowledge-based Visual Question Generation".
 
