@@ -21,8 +21,8 @@ Extracting information from images is an increasingly prominent task due to its 
 ## Author
 
 - **Author:** Ammar Hatiya
-- **Field of Study:** Computer Science 
-- **Degree:** Bachelors of Science, Computer Science
+- **Field of Study:** Computer Science, Co-op 
+- **Degree:** Honours Bachelors of Science, Computer Science
 
 ## Contact
 
