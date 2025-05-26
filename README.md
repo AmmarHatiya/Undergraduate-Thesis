@@ -1,4 +1,4 @@
-# Undergraduate Honours Thesis (2023-2024): A Study on Knowledge-based Visual Question Generation
+A Study on Knowledge-based Visual Question Generation
 
 Welcome to the GitHub repository for my undergraduate honours thesis titled "K-VQG: A Study on Knowledge-based Visual Question Generation".
 
